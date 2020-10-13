@@ -6,4 +6,4 @@ This is a project creation and management app created using reactJS. It also all
 
 ### Live Link
 
-Live link to the project is here: https://hungry-archimedes-c78c97.netlify.app/create
+Live link to the project is here: https://hungry-archimedes-c78c97.netlify.app/
